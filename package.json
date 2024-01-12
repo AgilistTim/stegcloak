@@ -15,6 +15,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    ,"start": "node stegcloak.js"
   },
   "author": "KuroLabs",
   "license": "MIT",
@@ -59,6 +60,7 @@
     "ramda": "^0.27.0",
     "randombytes": "^2.1.0",
     "safe-buffer": "^5.2.0",
+    "stegcloak": "^1.1.1",
     "timing-safe-equal": "^1.0.0"
   },
   "devDependencies": {
